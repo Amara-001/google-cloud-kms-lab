@@ -3,7 +3,8 @@
 
 This repository documents my hands-on lab with **Google Cloud Key Management Service (KMS)** and **Cloud Storage encryption** using **Customer-Managed Encryption Keys (CMEK)**.
 
-![GCP KMS Screenshot](screenshots/kms-overview.png) <!-- Replace with your actual image paths -->
+![GCP KMS Screenshot](screenshots/kms-overview.png) <![Gcloud KMS Screenshot](screenshots/Gcloud_KMS.png)
+
 
 ---
 
