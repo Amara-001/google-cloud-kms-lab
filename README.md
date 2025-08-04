@@ -100,19 +100,29 @@ curl "https://cloudkms.googleapis.com/v1/projects/$DEVSHELL_PROJECT_ID/locations
 
 ## 📸 Screenshots
 
-> _All images are located in the `/screenshots/` folder of this repo._
+### ✅ KMS KeyRing & Key Creation
+![KMS KeyRing Creation](screenshots/keyring_creation.png)
 
-✅ **KMS KeyRing & Key creation**  
-![KeyRing Creation](/screenshots/keyring_creation.png)
+### ✅ Bucket Encryption Status
+![Bucket Encryption Status](screenshots/bucket_encryption_status.png)
 
-✅ **Bucket encryption status**  
-![Bucket Encryption](/screenshots/bucket_encryption_status.png)
+### ✅ Object-Level Encryption Preview
+![Object-Level Encryption](screenshots/object_level_encryption.png)
 
-✅ **Object-level encryption preview**  
-![Object Encryption](/screenshots/object_level_encryption.png)
+### ✅ Key Rotation History (Auto)
+![Key Rotation History](screenshots/key_rotation_history.png)
 
-✅ **Key rotation history**  
-![Key Rotation](/screenshots/key_rotation_history.png)
+### ✅ Key Rotation History (Manual)
+![Manual Key Rotation](screenshots/key_rotation_history_manual.png)
+
+### ✅ REST API Encryption
+![REST API Encryption](screenshots/REST_API_encryption.png)
+
+![REST API Encryption - Continued](screenshots/REST_API_encryption2.png)
+
+### ✅ REST API Decryption
+![REST API Decryption](screenshots/REST_API_decryption.png)
+
 
 ---
 
