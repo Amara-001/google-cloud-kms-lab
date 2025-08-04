@@ -100,28 +100,27 @@ curl "https://cloudkms.googleapis.com/v1/projects/$DEVSHELL_PROJECT_ID/locations
 
 ## 📸 Screenshots
 
-### ✅ KMS KeyRing & Key Creation
-![KMS KeyRing Creation](screenshots/keyring_creation.png)
+### ✅ KMS KeyRing & Key Creation  
+![KMS KeyRing Creation](keyring_creation.png)
 
-### ✅ Bucket Encryption Status
-![Bucket Encryption Status](screenshots/bucket_encryption_status.png)
+### ✅ Bucket Encryption Status  
+![Bucket Encryption Status](bucket_encryption_status.png)
 
-### ✅ Object-Level Encryption Preview
-![Object-Level Encryption](screenshots/object_level_encryption.png)
+### ✅ Object-Level Encryption Preview  
+![Object-Level Encryption](object_level_encryption.png)
 
-### ✅ Key Rotation History (Auto)
-![Key Rotation History](screenshots/key_rotation_history.png)
+### ✅ Key Rotation History (Auto)  
+![Key Rotation History](key_rotation_history.png)
 
-### ✅ Key Rotation History (Manual)
-![Manual Key Rotation](screenshots/key_rotation_history_manual.png)
+### ✅ Key Rotation History (Manual)  
+![Manual Key Rotation](key_rotation_history_manual.png)
 
-### ✅ REST API Encryption
-![REST API Encryption](screenshots/REST_API_encryption.png)
+### ✅ REST API Encryption  
+![REST API Encryption](REST_API_encryption.png)  
+![REST API Encryption - Continued](REST_API_encryption2.png)
 
-![REST API Encryption - Continued](screenshots/REST_API_encryption2.png)
-
-### ✅ REST API Decryption
-![REST API Decryption](screenshots/REST_API_decryption.png)
+### ✅ REST API Decryption  
+![REST API Decryption](REST_API_decryption.png)
 
 
 ---
